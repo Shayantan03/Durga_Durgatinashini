@@ -1,0 +1,55 @@
+body{
+    background-color:#ffffcc;
+}
+.heading{
+    background-color:#FFCC33;
+    border-color:red;
+    border-width:5px;
+    border-style:double;
+}
+#head_img1{
+    float:right;
+    opacity:60%;
+}
+#head_img2{
+    float:left;
+    opacity:60%;
+}
+.menu{
+    background-color:#ffcc99;
+    border-color: blue;
+    border-width:2px;
+    border-style:inset;
+    padding-top:0.5%;
+    padding-bottom:0.5%;
+}
+#history{
+    padding-top:10px;
+    padding-left:5px;
+    padding-right:5px ;
+}
+#gen1{
+    float:left;
+}
+#gen2{
+    display:inline-block;
+}
+#somnath{
+    float:left;
+    
+}
+#som-img{
+    display:inline-block;
+}
+#sut-img{
+    float:left;
+}
+#sutapa{
+    display:inline-block;;
+}
+#shayantan{
+    float:left;
+}
+#sha-img{
+    display:inline-block;
+}
